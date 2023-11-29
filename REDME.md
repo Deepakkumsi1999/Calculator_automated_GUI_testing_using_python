@@ -1,0 +1,2 @@
+python_automated_GUI_testing
+Automated GUI testing for a calculator using Python involves the use of Python scripting and relevant testing frameworks to perform automated testing on a graphical user interface (GUI) calculator application. This type of testing is crucial for ensuring that the calculator software functions correctly, returns accurate results, and maintains user interface integrity across various scenarios and environments
